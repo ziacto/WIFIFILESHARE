@@ -19,7 +19,7 @@ WIFI FILE SHARE utilizes a fast and Wi-Fi transfer protocol to enable seamless f
 ![Screenshot 2](https://i.postimg.cc/18b5DFhF/Screenshot-2024-04-29-at-6-35-07-PM.png)
 ## DESKTOP SCREENSHOT
 ![Screenshot 1](https://i.postimg.cc/dhrYCxq2/Screenshot-2024-04-29-at-6-26-11-PM.png)
-![Screenshot 2](https://i.postimg.cc/SXGbTYYj/Screenshot-2024-04-29-at-6-27-00-PM.png
+![Screenshot 2](https://i.postimg.cc/SXGbTYYj/Screenshot-2024-04-29-at-6-27-00-PM.png)
 
 
 ## Installation
