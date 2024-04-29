@@ -41,3 +41,8 @@ Command used for installing supporting tools
 - **Customizable Destination:** Choose the destination folder on your PC for file storage.
 - **Data Management:** Manage transferred files efficiently with options for organization, backup, and deletion.
 - **Intuitive User Interface:** Easy-to-use interface for effortless file sharing and data management.
+
+## Create EXE file from Python code
+- Convert your python code to exe file with pyinstaller
+pyinstaller --onefile --add-data "templates;templates"  Transferme.py
+
